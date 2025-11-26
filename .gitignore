@@ -1,3 +1,13 @@
+node_modules
+.next
+.vercel
+dist
+.DS_Store
+*.log
+env.local
+env.production
+env.development
+.env*
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
@@ -915,3 +925,4 @@ config/database.yml
 *.zip
 
 # ===== END =====
+.env*.local
